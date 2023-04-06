@@ -1,0 +1,15 @@
+C:\Users\Sass\source\repos\Koolid\Koolid\bin\Debug\net6.0\Koolid.exe
+C:\Users\Sass\source\repos\Koolid\Koolid\bin\Debug\net6.0\Koolid.deps.json
+C:\Users\Sass\source\repos\Koolid\Koolid\bin\Debug\net6.0\Koolid.runtimeconfig.json
+C:\Users\Sass\source\repos\Koolid\Koolid\bin\Debug\net6.0\Koolid.dll
+C:\Users\Sass\source\repos\Koolid\Koolid\bin\Debug\net6.0\Koolid.pdb
+C:\Users\Sass\source\repos\Koolid\Koolid\obj\Debug\net6.0\Koolid.csproj.AssemblyReference.cache
+C:\Users\Sass\source\repos\Koolid\Koolid\obj\Debug\net6.0\Koolid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sass\source\repos\Koolid\Koolid\obj\Debug\net6.0\Koolid.AssemblyInfoInputs.cache
+C:\Users\Sass\source\repos\Koolid\Koolid\obj\Debug\net6.0\Koolid.AssemblyInfo.cs
+C:\Users\Sass\source\repos\Koolid\Koolid\obj\Debug\net6.0\Koolid.csproj.CoreCompileInputs.cache
+C:\Users\Sass\source\repos\Koolid\Koolid\obj\Debug\net6.0\Koolid.dll
+C:\Users\Sass\source\repos\Koolid\Koolid\obj\Debug\net6.0\refint\Koolid.dll
+C:\Users\Sass\source\repos\Koolid\Koolid\obj\Debug\net6.0\Koolid.pdb
+C:\Users\Sass\source\repos\Koolid\Koolid\obj\Debug\net6.0\Koolid.genruntimeconfig.cache
+C:\Users\Sass\source\repos\Koolid\Koolid\obj\Debug\net6.0\ref\Koolid.dll
